@@ -1,0 +1,28 @@
+Successfully initialized wpa_supplicant
+wlan0: SME: Trying to authenticate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Trying to associate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Associated with 00:18:f8:af:47:5b
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:18:f8:af:47:5b reason=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Enigma" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: SME: Trying to authenticate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Trying to associate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Associated with 00:18:f8:af:47:5b
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:18:f8:af:47:5b reason=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Enigma" auth_failures=1 duration=10 reason=WRONG_KEY
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Enigma"
+wlan0: SME: Trying to authenticate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Trying to associate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Associated with 00:18:f8:af:47:5b
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:18:f8:af:47:5b reason=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Enigma" auth_failures=2 duration=23 reason=WRONG_KEY
+wlan0: CTRL-EVENT-SSID-REENABLED id=0 ssid="Enigma"
+wlan0: SME: Trying to authenticate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Trying to associate with 00:18:f8:af:47:5b (SSID='Enigma' freq=2437 MHz)
+wlan0: Associated with 00:18:f8:af:47:5b
+wlan0: CTRL-EVENT-DISCONNECTED bssid=00:18:f8:af:47:5b reason=1
+wlan0: WPA: 4-Way Handshake failed - pre-shared key may be incorrect
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Enigma" auth_failures=3 duration=46 reason=WRONG_KEY
+wlan0: CTRL-EVENT-SSID-TEMP-DISABLED id=0 ssid="Enigma" auth_failures=4 duration=77 reason=CONN_FAILED
